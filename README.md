@@ -53,3 +53,20 @@ Ubuntu VM   Windows 11 VM
 - Configure custom detection rules
 - Simulate attack scenarios
 - Add threat intelligence feeds
+
+---
+
+## Screenshots
+
+### Wazuh Dashboard
+
+![Dashboard](Wazuh Dashboard.png)
+
+### Active Agents
+
+![Agents](Wazuh Agents Dashboard.png)
+
+### Endpoints
+
+![Windows 11 Endpoint](Windows 11 Endpoint Wazuh Agent Dashboard.png)
+![Ubuntu Linux Endpoint](Ubuntu Linux Endpoint Wazuh Agent Dashboard.png)
