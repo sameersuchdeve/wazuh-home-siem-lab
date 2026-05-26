@@ -60,13 +60,16 @@ Ubuntu VM   Windows 11 VM
 
 ### Wazuh Dashboard
 
-![Dashboard](Wazuh Dashboard.png)
+![Dashboard](dashboard.png)
 
 ### Active Agents
 
-![Agents](Wazuh Agents Dashboard.png)
+![Agents](agents.png)
 
-### Endpoints
+### Windows Endpoint
 
-![Windows 11 Endpoint](Windows 11 Endpoint Wazuh Agent Dashboard.png)
-![Ubuntu Linux Endpoint](Ubuntu Linux Endpoint Wazuh Agent Dashboard.png)
+![Windows Endpoint](windows-endpoint.png)
+
+### Ubuntu Endpoint
+
+![Ubuntu Endpoint](ubuntu-endpoint.png)
